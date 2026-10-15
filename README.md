@@ -78,3 +78,8 @@ This program gathers data by talking to public JSON application programming inte
 
 ## 🛑 Stopping the Program
 To safely shutdown the telemetry connection stream, simply press **`Ctrl + C`** inside your running terminal window. 
+
+
+
+
+
