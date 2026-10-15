@@ -70,3 +70,8 @@ try:
         time.sleep(10)
 except KeyboardInterrupt:
     print("\n🔌 Disconnected from ISS stream. Goodbye!")
+
+
+
+
+#DONT FORGET TO INSTALL :-     pip install requests        TO MAKE CODE RUN PROPERLY.
